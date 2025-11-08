@@ -2,11 +2,6 @@
 
 This project is a comprehensive, AI-powered travel planner built using **Streamlit** for the user interface and **crewAI** for the intelligent backend. It uses a team of specialized AI agents to generate a complete, personalized travel itinerary based on user preferences.
 
-## Demo
-
-*(Add your screenshots or a GIF of the application in action here!)*
-
-
 
 ## Features
 
